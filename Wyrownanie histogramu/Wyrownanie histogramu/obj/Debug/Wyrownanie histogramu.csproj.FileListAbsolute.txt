@@ -1,0 +1,10 @@
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\bin\Debug\Wyrownanie histogramu.exe.config
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\bin\Debug\Wyrownanie histogramu.exe
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\bin\Debug\Wyrownanie histogramu.pdb
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie histogramu.csprojAssemblyReference.cache
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie_histogramu.Form1.resources
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie_histogramu.Properties.Resources.resources
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie histogramu.csproj.GenerateResource.cache
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie histogramu.csproj.CoreCompileInputs.cache
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie histogramu.exe
+C:\Users\skudr\source\repos\Wyrownanie histogramu\Wyrownanie histogramu\obj\Debug\Wyrownanie histogramu.pdb
